@@ -1,0 +1,10 @@
+{
+    "port": 16385,
+    "token": ["2233yoyoboy"],
+    "certificate": "fullchain.cer",
+    "private_key": "private.key",
+    "ip": "::",
+    "congestion_controller": "bbr",
+    "alpn": ["h3"],
+    "max_udp_relay_packet_size": 1146
+}
